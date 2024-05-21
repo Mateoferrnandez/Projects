@@ -5,7 +5,7 @@ Please note that for detailed data and information regarding these projects, you
 
 
 **Project 1: [Exploring the relationship between forest cover and CO2 emissions in South America](https://github.com/Mateoferrnandez/Emissions-and-land-)**
-A brief description of Project 2. Mention the main technologies used and the project's objective.
+In this project, I explored the relationship between forest cover and CO2 emissions in South America. Using pandas and Jupyter Notebook, I analyzed data to investigate how forest cover and land use impact CO2 emissions across various countries in the region. Additionally, I created a Power BI dashboard to visualize this relationship more clearly, providing insights into the environmental dynamics of South America.
 
 **Project 2: [Electrical Grid Data Analysis and Forecasting](https://github.com/Mateoferrnandez/GeneracionElectricaColombia)**
 This project focuses on data analysis and forecasting of the electrical grid of Colombia's National Interconnected System (SIN).
