@@ -12,6 +12,6 @@ This project focuses on data analysis and forecasting of the electrical grid of 
 
 
 Contact
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com].
+If you have any questions or suggestions, feel free to contact me at [fernandeztovarmateo@gmail.com].
 
 License
