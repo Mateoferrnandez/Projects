@@ -7,7 +7,7 @@ Please note that for detailed data and information regarding these projects, you
 **Project 1: [Exploring the relationship between forest cover and CO2 emissions in South America](https://github.com/Mateoferrnandez/Emissions-and-land-)**
 In this project, I explored the relationship between forest cover and CO2 emissions in South America. Using pandas and Jupyter Notebook, I analyzed data to investigate how forest cover and land use impact CO2 emissions across various countries in the region. Additionally, I created a Power BI dashboard to visualize this relationship more clearly, providing insights into the environmental dynamics of South America.
 
-**Project 2: [Webscraping and Analysis of CO2 Emissions Data ](https://github.com/Mateoferrnandez/GeneracionElectricaColombia)**
+**Project 2: [Webscraping and Analysis of CO2 Emissions Data ](https://github.com/Mateoferrnandez/Webscraping-and-Analysis-of-CO2-Emissions-Data/tree/main)**
 A small webscraping project where i create and use a SQL Database to analyze and visualize the Worldmeter data of CO2 emissions by country.
 
 **Project 3: [Electrical Grid Data Analysis and Forecasting](https://github.com/Mateoferrnandez/GeneracionElectricaColombia)**
