@@ -26,6 +26,6 @@ Projects that I completed for my Data Analysis with Python Certification, being 
 
 
 Contact
-If you have any questions or suggestions, feel free to contact me at [fernandeztovarmateo@gmail.com].
+If you have any questions or suggestions, feel free to contact me at fernandeztovarmateo@gmail.com.
 
 License
