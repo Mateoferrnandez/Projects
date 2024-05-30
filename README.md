@@ -15,7 +15,7 @@ A small webscraping project where I created and used a SQL Database to analyze a
 **Technologies Used**: Python, BeautifulSoup, SQL, Jupyter Notebook  
 
 
-**Project 3: [Electrical Grid Data Analysis and Forecasting]([https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Webscraping%20and%20Analysis%20of%20CO2%20Emissions%20Data))**  
+**Project 3: [Electrical Grid Data Analysis and Forecasting](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Webscraping%20and%20Analysis%20of%20CO2%20Emissions%20Data)**  
 This project focuses on data analysis of the electrical grid of Colombia's National Interconnected System (SIN). I applied skills developed in the two previous projects, including the use of Jupyter Notebook and webscraping techniques.  
 **Technologies Used**: Python, Pandas, Jupyter Notebook, Webscraping  
 
