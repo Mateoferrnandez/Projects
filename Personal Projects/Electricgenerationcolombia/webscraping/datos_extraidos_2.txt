@@ -1,3 +1,0 @@
-Título: Climate Prediction Center - ONI
-La página https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php contiene: 11 tablas.
---------------------------------------------------------------------------------
