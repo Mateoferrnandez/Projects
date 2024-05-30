@@ -5,12 +5,12 @@ Please note that for detailed data and information regarding these projects, you
 
 ## Personal Projects
 
-**Project 1: [Exploring the Relationship Between Forest Cover and CO2 Emissions in South America]([https://github.com/Mateoferrnandez/Emissions-and-land-](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Landandemissions))**  
+**Project 1: [Exploring the Relationship Between Forest Cover and CO2 Emissions in South America](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Landandemissions)**  
 In this project, I explored the relationship between forest cover and CO2 emissions in South America. Using pandas and Jupyter Notebook, I analyzed data to investigate how forest cover and land use impact CO2 emissions across various countries in the region. Additionally, I created a Power BI dashboard to visualize this relationship more clearly, providing insights into the environmental dynamics of South America.  
 **Technologies Used**: Pandas, Jupyter Notebook, Power BI  
 
 
-**Project 2: [Webscraping and Analysis of CO2 Emissions Data]([https://github.com/Mateoferrnandez/Webscraping-and-Analysis-of-CO2-Emissions-Data/tree/main](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/webscrapping))**  
+**Project 2: [Webscraping and Analysis of CO2 Emissions Data](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/webscrapping)**  
 A small webscraping project where I created and used a SQL Database to analyze and visualize the Worldmeter data of CO2 emissions by country. This project was also conducted using Jupyter Notebook, but without a Power BI dashboard.  
 **Technologies Used**: Python, BeautifulSoup, SQL, Jupyter Notebook  
 
