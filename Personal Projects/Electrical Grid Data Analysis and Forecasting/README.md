@@ -32,7 +32,7 @@ This project delves into the analysis and forecasting of electricity generation 
 
 ## Project Structure
 
-- `notebooks/`: Contains the Jupyter Notebook with detailed analysis.
+- `notebooks/`: Contains the [Jupyter Notebook with detailed analysis](https://github.com/Mateoferrnandez/Projects/blob/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting/notebooks/ElectricGeneration_colombia.ipynb).
 - `data/`: Directory for raw and processed data files.
 - `dashboard/`: Contains files for the Power BI dashboard.
 - `Webscraping/`: Contains the code and CSV file with the obtained table.
