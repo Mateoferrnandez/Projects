@@ -11,13 +11,13 @@ In this project, I explored the relationship between forest cover and CO2 emissi
 
 
 **Project 2: [Webscraping and Analysis of CO2 Emissions Data](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Webscraping%20and%20Analysis%20of%20CO2%20Emissions%20Data)**  
-A small webscraping project where I created and used a SQL Database to analyze and visualize the Worldmeter data of CO2 emissions by country. This project was also conducted using Jupyter Notebook, but without a Power BI dashboard.  
+A small webscraping project where I created and used a SQL Database to analyze and visualize the Worldmeter data of CO2 emissions by country. This project was also conducted using Jupyter Notebook.
 **Technologies Used**: Python, BeautifulSoup, SQL, Jupyter Notebook  
 
 
 **Project 3: [Electrical Grid Data Analysis and Forecasting](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting)**  
-This project focuses on data analysis of the electrical grid of Colombia's National Interconnected System (SIN). I applied skills developed in the two previous projects, including the use of Jupyter Notebook and webscraping techniques.  
-**Technologies Used**: Python, Pandas, Jupyter Notebook, Webscraping  
+This project focuses on data analysis of the electrical grid of Colombia's National Interconnected System (SIN). I applied skills developed in the two previous projects, including the use of Jupyter Notebook and webscraping techniques. Additionally, I created a Power BI dashboard to visualize the dinamics of the electrical grid more clearly
+**Technologies Used**: Python, Pandas, Jupyter Notebook, Webscraping, Power bi 
 
 **Project 4: [ Data Cleaning and Transformation of Job Listings and FIFA 21 Datasets](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting)**  
 In this project, I performed extensive data cleaning and transformation on two datasets: one related to data science job listings from Glassdoor and another containing FIFA 21 player statistics. The main objective was to prepare both datasets for analysis. Key tasks included handling missing values, standardizing and normalizing text data, extracting information from text fields using the NLTK library, and transforming numerical data such as salary estimates and player attributes into structured formats suitable for analysis.
