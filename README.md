@@ -18,6 +18,7 @@ A small webscraping project where I created and used a SQL Database to analyze a
 **Project 3: [Electrical Grid Data Analysis and Forecasting](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting)**  
 This project focuses on data analysis of the electrical grid of Colombia's National Interconnected System (SIN). I applied skills developed in the two previous projects, including the use of Jupyter Notebook and webscraping techniques.  
 **Technologies Used**: Python, Pandas, Jupyter Notebook, Webscraping  
+
 **Project 4: [ Data Cleaning and Transformation of Job Listings and FIFA 21 Datasets](https://github.com/Mateoferrnandez/Projects/tree/main/Personal%20Projects/Electrical%20Grid%20Data%20Analysis%20and%20Forecasting)**  
 In this project, I performed extensive data cleaning and transformation on two datasets: one related to data science job listings from Glassdoor and another containing FIFA 21 player statistics. The main objective was to prepare both datasets for analysis. Key tasks included handling missing values, standardizing and normalizing text data, extracting information from text fields using the NLTK library, and transforming numerical data such as salary estimates and player attributes into structured formats suitable for analysis.
 Technologies Used: Python, Pandas, NLTK, Jupyter Notebook

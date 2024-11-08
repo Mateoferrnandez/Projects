@@ -21,7 +21,7 @@ For my inaugural project, I undertook an in-depth exploration into the intricate
 
 ## Project Structure
 
-- `notebooks/`: Contains the Jupyter Notebook with the detailed analysis.
+- `notebooks/`: Contains the [Jupyter Notebook with the detailed analysis](https://github.com/Mateoferrnandez/Projects/blob/main/Personal%20Projects/Exploring%20the%20Relationship%20Between%20Forest%20Cover%20and%20CO2%20Emissions%20in%20South%20America/notebooks/forestcoverandemissions.ipynb).
 - `data/`: Directory for raw and processed data files.
 - `asets/`: images used in the analysis.
 
